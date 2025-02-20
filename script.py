@@ -1,5 +1,4 @@
 import time
 
-while True:
-    print("Hola, Railway está ejecutando este script 🚀")
-    time.sleep(5)  # Espera 5 segundos antes de repetir
+print("Ejecutando proceso en Railway 🚀")
+time.sleep(3600)  # Espera 1 hora antes de volver a ejecutarse
